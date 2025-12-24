@@ -454,6 +454,36 @@ const Home = () => {
         </div>
       </section>
 
+      <section style={sectionStyle}>
+        <div
+          style={{
+            display: 'grid',
+            gap: '1rem',
+            gridTemplateColumns: 'repeat(auto-fit, minmax(320px, 1fr))',
+          }}
+        >
+          <div
+            style={{
+              backgroundColor: '#ffffff',
+              borderRadius: '1rem',
+              padding: '1rem',
+              border: '2px solid #f97316',
+              boxShadow: '0 10px 22px rgba(0,0,0,0.1)',
+              display: 'grid',
+              gap: '0.5rem',
+            }}
+          >
+            <strong style={{ color: '#9a3412' }}>We Always</strong>
+            <img
+              src="/photos/img43.jpeg"
+              alt="We Always Help You Cover"
+              style={{ width: '150px', height: '250px', objectFit: 'cover', borderRadius: '1.5rem', marginBottom: '1.5rem' }}
+            />
+            <p style={{ margin: 0, color: '#475569' }}>आमच्या समुदायासाठी नेहमीच मदत करणे हा आमचा श्रेष्ठ गुण आहे. तुमच्या प्रत्येक गरजेसाठी आम्ही तुमच्या सेवेत आहोत.</p>
+          </div>
+        </div>
+      </section>
+
       <section
         style={{
           ...sectionStyle,
