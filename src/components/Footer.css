@@ -1,0 +1,55 @@
+.footer {
+  background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
+  color: white;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.footer .container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.footer-content {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.footer-party-name {
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: #ff6600;
+  margin: 0;
+}
+
+.footer-disclaimer {
+  font-size: 0.9rem;
+  color: #ccc;
+  line-height: 1.6;
+  margin: 0;
+  opacity: 0.9;
+}
+
+.footer-message {
+  font-size: 1.1rem;
+  color: #fff;
+  font-weight: 600;
+  margin: 10px 0 0 0;
+}
+
+@media (max-width: 768px) {
+  .footer {
+    padding: 30px 15px;
+  }
+  
+  .footer-party-name {
+    font-size: 1.5rem;
+  }
+  
+  .footer-message {
+    font-size: 1rem;
+  }
+}
+
+

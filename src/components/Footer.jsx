@@ -1,20 +1,24 @@
-import React from 'react';
+import { useLanguage } from '../context/LanguageContext';
+import partyData from '../data/partyData.json';
+import './Footer.css';
 
-const Footer = () => (
-  <footer
-    style={{
-      padding: '1.5rem 2rem',
-      backgroundColor: '#0f172a',
-      color: '#e2e8f0',
-      textAlign: 'center',
-      marginTop: '3rem',
-    }}
-  >
-    <p style={{ margin: '0 0 0.35rem 0', fontWeight: 600 }}>BJP Social</p>
-    <p style={{ margin: 0, fontSize: '0.9rem', opacity: 0.8 }}>
-      Connecting supporters, sharing updates, and highlighting events.
-    </p>
-  </footer>
-);
+const Footer = () => {
+  const { t, language } = useLanguage();
+  const partyName = partyData.partyName[language];
+
+  return (
+    <footer className="footer">
+      <div className="container">
+        <div className="footer-content">
+          <h3 className="footer-party-name">{partyName}</h3>
+          <p className="footer-disclaimer">{t('footer.disclaimer')}</p>
+          <p className="footer-message">{t('footer.message')}</p>
+        </div>
+      </div>
+    </footer>
+  );
+};
 
 export default Footer;
+
+

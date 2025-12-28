@@ -1,0 +1,119 @@
+.about-section {
+  padding: 60px 20px;
+  background: #ffffff;
+}
+
+.about-section .container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.section-title {
+  font-size: 2.2rem;
+  font-weight: 700;
+  color: #ff6600;
+  text-align: center;
+  margin-bottom: 40px;
+  position: relative;
+  padding-bottom: 15px;
+}
+
+.section-title::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 80px;
+  height: 4px;
+  background: linear-gradient(90deg, #ff6600, #ff8533);
+  border-radius: 2px;
+}
+
+.about-content {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 30px;
+  margin-top: 40px;
+}
+
+.about-card {
+  background: #f8f9fa;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border-top: 4px solid #ff6600;
+}
+
+.about-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+.card-title {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #ff6600;
+  margin-bottom: 15px;
+}
+
+.qualifications-list,
+.roles-list {
+  list-style: none;
+  padding: 0;
+  margin: 15px 0;
+}
+
+.qualifications-list li,
+.roles-list li {
+  padding: 8px 0;
+  padding-left: 25px;
+  position: relative;
+  color: #555;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.qualifications-list li::before,
+.roles-list li::before {
+  content: '✓';
+  position: absolute;
+  left: 0;
+  color: #ff6600;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.card-text {
+  color: #666;
+  line-height: 1.8;
+  margin-top: 15px;
+  font-size: 1rem;
+}
+
+@media (max-width: 768px) {
+  .about-section {
+    padding: 40px 15px;
+  }
+  
+  .section-title {
+    font-size: 1.8rem;
+    margin-bottom: 30px;
+  }
+  
+  .about-content {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+  
+  .about-card {
+    padding: 20px;
+  }
+  
+  .card-title {
+    font-size: 1.3rem;
+  }
+}
+
+

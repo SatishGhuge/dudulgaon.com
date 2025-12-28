@@ -1,0 +1,220 @@
+{
+  "whatsappNumber": "919999018585",
+  "candidate": {
+    "name": {
+      "marathi": "सौ. कावेरी सचिन तळेकर",
+      "english": "Smt. Kaveri Sachin Talekar"
+    },
+    "designation": {
+      "marathi": "सामाजिक कार्यकर्त्या",
+      "english": "Social Worker"
+    },
+    "image": "/images/candidates/kaveri-talekar.jpg",
+    "spouse": {
+      "name": {
+        "marathi": "श्री. सचिन दिगंबर तळेकर",
+        "english": "Shri. Sachin Digambar Talekar"
+      },
+      "designation": {
+        "marathi": "युवानेते",
+        "english": "Youth Leader"
+      },
+      "image": "/images/candidates/sachin-talekar.jpg",
+      "roles": {
+        "marathi": [
+          "उपाध्यक्ष, ओबीसी भारतीय जनता पार्टी, पिंपरी-चिंचवड",
+          "मा. उपाध्यक्ष, सावता परिषद पिंपरी- चिंचवड शहर"
+        ],
+        "english": [
+          "Vice President, OBC Bharatiya Janata Party, Pimpri-Chinchwad",
+          "Former Vice President, Savata Parishad, Pimpri-Chinchwad City"
+        ]
+      }
+    },
+    "qualifications": {
+      "marathi": [
+        "उच्चशिक्षित",
+        "महिला बचत गट सदस्य",
+        "सामाजिक कार्यकर्त्या"
+      ],
+      "english": [
+        "Highly educated",
+        "Member, Women's Self-Help Group",
+        "Social worker"
+      ]
+    }
+  },
+  "contact": {
+    "office": {
+      "marathi": "जनसंपर्क कार्यालय",
+      "english": "Public Relations Office"
+    },
+    "address": {
+      "marathi": "तळेकर पाटील चौक, मोशी-आळंदी रोड, डुडूळगांव ता. हवेली जि.पुणे",
+      "english": "Talekar Patil Chowk, Moshi-Alandi Road, Dudulgaon Taluka Haveli District Pune"
+    },
+    "mobile": "9999 01 8585",
+    "helpline": {
+      "marathi": "24 तास हेल्पलाईन सेवा",
+      "english": "24 Hour Helpline Service"
+    }
+  },
+  "ward": {
+    "number": "03",
+    "municipality": {
+      "marathi": "पिंपरी चिंचवड महानगरपालिका",
+      "english": "Pimpri Chinchwad Municipal Corporation"
+    },
+    "areas": {
+      "marathi": [
+        "डुडूळगांव",
+        "मोशी",
+        "चन्होली",
+        "गंधर्वनगरी"
+      ],
+      "english": [
+        "Dudulgaon",
+        "Moshi",
+        "Chanhali",
+        "Gandharvanagari"
+      ]
+    }
+  },
+  "socialWorkImages": [
+    {
+      "activityIndex": 0,
+      "image": "/images/social-work/01-water-filter.jpg",
+      "alt": "Water Filter Distribution"
+    },
+    {
+      "activityIndex": 1,
+      "image": "/images/social-work/02-street-light.jpg",
+      "alt": "Street Light Maintenance"
+    },
+    {
+      "activityIndex": 2,
+      "image": "/images/social-work/03-water-problem.jpg",
+      "alt": "Water Problem Resolution"
+    },
+    {
+      "activityIndex": 3,
+      "image": "/images/social-work/04-valve-relocation.jpg",
+      "alt": "Valve Relocation"
+    },
+    {
+      "activityIndex": 4,
+      "image": "/images/social-work/05-road-repair.jpg",
+      "alt": "Road Repair"
+    },
+    {
+      "activityIndex": 5,
+      "image": "/images/social-work/06-drainage.jpg",
+      "alt": "Drainage Clearance"
+    },
+    {
+      "activityIndex": 6,
+      "image": "/images/social-work/07-electricity.jpg",
+      "alt": "Electricity Problem Resolution"
+    },
+    {
+      "activityIndex": 7,
+      "image": "/images/social-work/08-light-pole.jpg",
+      "alt": "Light Pole Installation"
+    },
+    {
+      "activityIndex": 8,
+      "image": "/images/social-work/09-road-cleaning.jpg",
+      "alt": "Road Cleaning"
+    },
+    {
+      "activityIndex": 9,
+      "image": "/images/social-work/10-voter-registration.jpg",
+      "alt": "Voter Registration Campaign"
+    },
+    {
+      "activityIndex": 10,
+      "image": "/images/social-work/11-tree-cutting.jpg",
+      "alt": "Tree Cutting Complaint"
+    },
+    {
+      "activityIndex": 11,
+      "image": "/images/social-work/12-obc-bjp.jpg",
+      "alt": "OBC BJP Program"
+    },
+    {
+      "activityIndex": 12,
+      "image": "/images/social-work/13-flood-relief.jpg",
+      "alt": "Flood Relief"
+    },
+    {
+      "activityIndex": 13,
+      "image": "/images/social-work/14-road-gravelling-1.jpg",
+      "alt": "Road Gravelling"
+    },
+    {
+      "activityIndex": 14,
+      "image": "/images/social-work/15-road-gravelling-2.jpg",
+      "alt": "Road Gravelling"
+    },
+    {
+      "activityIndex": 15,
+      "image": "/images/social-work/16-temple-cleaning.jpg",
+      "alt": "Temple Cleaning"
+    },
+    {
+      "activityIndex": 16,
+      "image": "/images/social-work/17-welcome-signboard.jpg",
+      "alt": "Welcome Signboard Repair"
+    },
+    {
+      "activityIndex": 17,
+      "image": "/images/social-work/18-bench-distribution.jpg",
+      "alt": "Bench Distribution"
+    },
+    {
+      "activityIndex": 18,
+      "image": "/images/social-work/19-ganesh-utsav.jpg",
+      "alt": "Ganesh Utsav Visit"
+    },
+    {
+      "activityIndex": 19,
+      "image": "/images/social-work/20-navratri.jpg",
+      "alt": "Navratri Visit"
+    },
+    {
+      "activityIndex": 20,
+      "image": "/images/social-work/21-orphanage.jpg",
+      "alt": "Orphanage Food Distribution"
+    },
+    {
+      "activityIndex": 21,
+      "image": "/images/social-work/22-covid-center.jpg",
+      "alt": "Covid Center Donation"
+    },
+    {
+      "activityIndex": 22,
+      "image": "/images/social-work/23-dengue-fogging.jpg",
+      "alt": "Dengue Fogging"
+    },
+    {
+      "activityIndex": 23,
+      "image": "/images/social-work/24-sanitization.jpg",
+      "alt": "Corona Sanitization"
+    },
+    {
+      "activityIndex": 24,
+      "image": "/images/social-work/25-water-pipeline.jpg",
+      "alt": "Water Pipeline Repair"
+    },
+    {
+      "activityIndex": 25,
+      "image": "/images/social-work/26-covid-food.jpg",
+      "alt": "Covid Food Aid"
+    },
+    {
+      "activityIndex": 26,
+      "image": "/images/social-work/27-road-construction.jpg",
+      "alt": "Road Construction"
+    }
+  ]
+}

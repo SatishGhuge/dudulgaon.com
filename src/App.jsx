@@ -1,29 +1,67 @@
-import React from 'react';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import Header from './components/Header';
+import { useState } from 'react';
+import { LanguageProvider } from './context/LanguageContext';
+import LanguageToggle from './components/LanguageToggle';
+import PartyHeader from './components/PartyHeader';
+import CandidateHero from './components/CandidateHero';
+import AboutSection from './components/AboutSection';
+import SocialWorkSection from './components/SocialWorkSection';
+import WardSection from './components/WardSection';
+import ContactSection from './components/ContactSection';
+import QueryFormModal from './components/QueryFormModal';
 import Footer from './components/Footer';
-import Home from './pages/Home';
-import Events from './pages/Events';
-import About from './pages/About';
-import Contact from './pages/Contact';
-import PostDetails from './pages/PostDetails';
-import AdminPostForm from './pages/AdminPostForm';
-import Media from './pages/Media';
+import { useLanguage } from './context/LanguageContext';
+import './App.css';
 
-const App = () => (
-  <BrowserRouter>
-    <Header />
-    <Routes>
-      <Route path="/" element={<Home />} />
-      <Route path="/events" element={<Events />} />
-      <Route path="/about" element={<About />} />
-      <Route path="/contact" element={<Contact />} />
-      <Route path="/posts/:id" element={<PostDetails />} />
-      <Route path="/admin/posts/new" element={<AdminPostForm />} />
-      <Route path="/media" element={<Media />} />
-    </Routes>
-    <Footer />
-  </BrowserRouter>
-);
+const QueryButton = () => {
+  const { t } = useLanguage();
+  const [isModalOpen, setIsModalOpen] = useState(false);
+
+  return (
+    <>
+      <button 
+        className="query-button"
+        onClick={() => setIsModalOpen(true)}
+        aria-label="Submit Problem"
+      >
+        <span className="query-button-icon">📝</span>
+        <span className="query-button-text">{t('queryForm.button')}</span>
+      </button>
+      <QueryFormModal 
+        isOpen={isModalOpen} 
+        onClose={() => setIsModalOpen(false)} 
+      />
+    </>
+  );
+};
+
+const AppContent = () => {
+  return (
+    <div className="app">
+      <LanguageToggle />
+      <QueryButton />
+      
+      <main className="main-content">
+        <PartyHeader />
+        <CandidateHero />
+        <AboutSection />
+        <SocialWorkSection />
+        <WardSection />
+        <ContactSection />
+      </main>
+      
+      <Footer />
+    </div>
+  );
+};
+
+function App() {
+  return (
+    <LanguageProvider>
+      <AppContent />
+    </LanguageProvider>
+  );
+}
 
 export default App;
+
+

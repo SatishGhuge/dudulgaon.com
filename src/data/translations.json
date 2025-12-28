@@ -1,0 +1,178 @@
+{
+  "marathi": {
+    "language": "मराठी",
+    "english": "English",
+    "candidateHero": {
+      "title": "उमेदवार",
+      "name": "सौ. कावेरी सचिन तळेकर",
+      "designation": "सामाजिक कार्यकर्त्या",
+      "spouseName": "श्री. सचिन दिगंबर तळेकर",
+      "spouseDesignation": "युवानेते",
+      "mission": "एक स्त्री शिकली तर ती दोन कुटुंबाचे भविष्य सुधारते. सर्व महिलांना प्रतिनिधित्व देण्यासाठी, त्यांना सक्षम करण्यासाठी, त्यांचा आदर सुनिश्चित करण्यासाठी, स्वाभिमानी आणि समान राजकारण, प्रभावी संघटना आणि सर्व क्षेत्रात चांगली प्रशासन सुनिश्चित करण्यासाठी."
+    },
+    "about": {
+      "title": "उमेदवाराबद्दल",
+      "candidateInfo": "सौ. कावेरी सचिन तळेकर ह्या उच्चशिक्षित आहेत आणि महिला बचत गट सदस्य आहेत. त्या सामाजिक कार्यकर्त्या म्हणून कार्यरत आहेत.",
+      "spouseInfo": "श्री. सचिन दिगंबर तळेकर हे भारतीय जनता पार्टी ओ.बी.सी. उपाध्यक्ष, पिंपरी-चिंचवड शहर आहेत. ते मा. उपाध्यक्ष, सावता परिषद पिंपरी-चिंचवड शहर होते.",
+      "familyInfo": "श्री. दिगंबर हरिभाऊ तळेकर हे डुडुळगांव-मोशी परिसरात गेल्या 20-25 वर्षांपासून सामाजिक कार्यात सक्रिय आहेत."
+    },
+    "socialWork": {
+      "title": "सामाजिक कार्य आणि योगदान",
+      "subtitle": "डुडूळगाव-मोशी परिसरात केलेली काही निवडक लोकहिताचे कार्य",
+      "activities": [
+        "प्रभागात सवलतीमध्ये वॉटर फिल्टर वाटप",
+        "मंथन सोसायटी येथे स्ट्रीट लाईट चा प्रश्न मार्गी",
+        "मॅजिक सिटी, डुडूळगाव येथील पाणी प्रश्न मार्गी",
+        "अपघात टाळण्यासाठी डुडूळगावमधील वॉल्व्हचे स्थलांतर करुन घेतले",
+        "देहु-आळंदी रोडची डागडुजी करुन घेतली",
+        "डुडूळगाव गावठाण ड्रेनेज चोकअप समस्या निवारण",
+        "डुडूळगाव भागात लाईट समस्या सोडविताना",
+        "वेताळबुवा चौक व अडबंग सोसायटी येथे नवीन लाईट पोल बसवण्यात आला",
+        "तळेकर पाटील, देहु-आळंदी रस्त्यावर पावसामुळे साचलेले पाणी उपसुन रस्ता स्वच्छ केला",
+        "प्रभागात घरोघरी जाऊन नवीन मतदार नाव नोंदणी अभियान",
+        "झाडांची होणारी बेकायदेशीर तोडी संबंधित आधिकाऱ्यांकडे तक्रार",
+        "ओबीसी भारतीय जनता पार्टी संघटना उपक्रम मध्ये सहभाग",
+        "कोकण, कोल्हापुर पुरग्रस्तांना मदत",
+        "मधुबन सोसायटी, डुडूळगाव येथे स्वखर्चाने रस्ता मुरुमीकरण",
+        "वेरदुरा सोसायटी, डुडूळगाव येथे स्वखर्चाने रस्ता मुरुमीकरण",
+        "श्रीसंत सावतामाळी मंदिर, डुडूळगाव परिसर साफ सफाई",
+        "पिंपरी-चिंचवड महानगरपालिका स्वागत नामफलक दुरुस्ती करुन घेतले",
+        "प्रभागातील ज्येष्ठ नागरिकांसाठी सोसायटी मध्ये बेंच वाटप",
+        "सामाजिक बांधिलकी जपत विविध सोसायटी मध्ये गणेशोत्सव निमित्त भेट",
+        "सामाजिक बांधिलकी जपत विविध वाडी-वस्ती मध्ये नवरात्रोत्सव निमित्त भेट",
+        "वाढदिवसानिमित्त अतिरिक्त खर्च टाळून अनाथ आश्राम मध्ये खाऊवाटप",
+        "पारनेर येथे सामाजिक भान जपत आमदार निलेश लंके कोव्हीड सेंटरला आर्थिक मदत",
+        "डेंग्यु व मलेरियाचा पादुर्भाव रोखण्यासाठी प्रभागात धुर फवारणी",
+        "कोरोनाचा पादुर्भाव रोखण्यासाठी प्रभागात सॅनिटायजेशन",
+        "डुडूळगाव येथील पाण्याची पाईप लाईन स्वतः उपस्थित राहुन दुरुस्ती",
+        "कोव्हीड काळात नागेश्वर अन्न छत्र, मोशी येथे आर्थिक मदत",
+        "आण्णाभाऊ साठे नगर, डुडूळगाव येथील स्वखर्चाने रस्ता मुरुमीकरण"
+      ],
+      "festivals": [
+        "गणेशोत्सव, नवरात्रोत्सव, हळदी-कुंकू व विविध कार्यक्रमास सदिच्छा भेट",
+        "आळंदी यात्रेनिमित्त येणाऱ्या वारकरी भाविक भक्तांचे मनःपूर्वक स्वागत करताना... तसेच दर वर्षी चहा व नाष्ट्याची सोय करण्यात येते..."
+      ]
+    },
+    "ward": {
+      "title": "प्रभाग आणि क्षेत्र प्रतिनिधित्व",
+      "municipality": "पिंपरी चिंचवड महानगरपालिका",
+      "wardNumber": "प्रभाग क्रमांक ०३",
+      "areas": "डुडूळगांव, मोशी, चऱ्होली, गंधर्वनगरी",
+      "vision": "सदैव जनसेवेसाठी"
+    },
+    "contact": {
+      "title": "संपर्क माहिती",
+      "officeTitle": "जनसंपर्क कार्यालय",
+      "address": "तळेकर पाटील चौक, मोशी-आळंदी रोड, डुडूळगांव ता. हवेली जि.पुणे",
+      "helpline": "24 तास हेल्पलाईन सेवा",
+      "mobile": "मोबाईल",
+      "availability": "प्रभागातील नागरीकांच्या समस्या जाणुन घेण्यासाठी 24 तास हेल्पलाईन सेवा"
+    },
+    "queryForm": {
+      "title": "आपली समस्या / प्रश्न सबमिट करा",
+      "button": "समस्या सबमिट करा",
+      "name": "नाव ",
+      "mobile": "मोबाईल नंबर ",
+      "problem": "समस्या / प्रश्न वर्णन (आवश्यक)",
+      "area": "क्षेत्र / प्रभाग",
+      "submit": "WhatsApp वर पाठवा",
+      "close": "बंद करा",
+      "disclaimer": "हा फॉर्म WhatsApp संदेश तयार करेल आणि आपल्याला WhatsApp वर पाठवण्यासाठी पुढे नेईल.",
+      "required": "हे फील्ड आवश्यक आहे"
+    },
+    "footer": {
+      "partyName": "भारतीय जनता पार्टी",
+      "disclaimer": "ही वेबसाइट निवडणूक प्रचारासाठी आहे. सर्व माहिती आधिकृत स्त्रोतांवरून घेतली आहे.",
+      "message": "सर्वांसाठी विकास आणि प्रगती"
+    }
+  },
+  "english": {
+    "language": "English",
+    "marathi": "मराठी",
+    "candidateHero": {
+      "title": "Candidate",
+      "name": "Smt. Kaveri Sachin Talekar",
+      "designation": "Social Worker",
+      "spouseName": "Shri. Sachin Digambar Talekar",
+      "spouseDesignation": "Youth Leader",
+      "mission": "If a woman is educated, she improves the future of two families. To represent all women, to empower them, to ensure their respect, to ensure self-respecting and equitable politics, effective organization and good administration in all sectors."
+    },
+    "about": {
+      "title": "About the Candidate",
+      "candidateInfo": "Smt. Kaveri Sachin Talekar is highly educated and a member of Women's Self-Help Group. She is working as a social worker.",
+      "spouseInfo": "Shri. Sachin Digambar Talekar is the Vice President, OBC Bharatiya Janata Party, Pimpri-Chinchwad City. He was the Former Vice President, Savata Parishad, Pimpri-Chinchwad City.",
+      "familyInfo": "Shri. Digambar Haribhau Talekar has been actively involved in social work in the Dudulgaon-Moshi area for the past 20-25 years."
+    },
+    "socialWork": {
+      "title": "Social Work & Contributions",
+      "subtitle": "Some selected public welfare works done in Dudulgaon-Moshi area",
+      "activities": [
+        "Distribution of water filters at a discount in the area",
+        "Street light issue resolved at Manthan Society",
+        "Water issue resolved at Magic City, Dudulgaon",
+        "Valve in Dudulgaon relocated to prevent accidents",
+        "Dehu-Alandi road repaired",
+        "Resolution of drainage choke-up problem in Dudulgaon Gavthan",
+        "Resolving light problems in Dudulgaon area",
+        "New light poles installed at Vetalbuwa Chowk and Adbang Society",
+        "Talekar Patil cleaned the road by pumping out rainwater accumulated on Dehu-Alandi road",
+        "New voter name registration campaign by going door-to-door in the area",
+        "Complaint to concerned authorities regarding illegal tree cutting",
+        "Participation in OBC Bharatiya Janata Party organization program",
+        "Help for flood victims in Konkan, Kolhapur",
+        "Road gravelling done at Madhuban Society, Dudulgaon, at own expense",
+        "Road gravelling done at Verdura Society, Dudulgaon, at own expense",
+        "Cleaning of Shrisant Savtamali Temple, Dudulgaon premises",
+        "Pimpri-Chinchwad Municipal Corporation welcome signboard repaired",
+        "Distribution of benches in the society for senior citizens of the ward",
+        "Maintaining social commitment, visits to various societies on the occasion of Ganesh Utsav",
+        "Maintaining social commitment, visits to various localities/settlements on the occasion of Navratri Utsav",
+        "Distribution of food in an orphanage by avoiding extra expenses on birthday",
+        "At Parner, MLA Nilesh Lanke provided financial assistance to the Covid Center, upholding social awareness",
+        "Fogging in the area to prevent the spread of Dengue and Malaria",
+        "Sanitization in the area to prevent the spread of Corona",
+        "Repair of water pipeline in Dudulgaon, personally present for supervision",
+        "Financial assistance at Nageshwar Ann Chhatra, Moshi during Covid period",
+        "Murum road construction at Annabhau Sathe Nagar, Dudulgaon at own expense"
+      ],
+      "festivals": [
+        "Greetings for Ganesh Utsav, Navratri Utsav, Haldi-Kumkum, and various programs",
+        "Heartily welcoming the Warkari devotees coming for the Alandi Yatra... and providing tea and snacks every year..."
+      ]
+    },
+    "ward": {
+      "title": "Ward & Area Representation",
+      "municipality": "Pimpri Chinchwad Municipal Corporation",
+      "wardNumber": "Ward No. 03",
+      "areas": "Dudulgaon, Moshi, Charholi, Gandharvanagari",
+      "vision": "Always for public service"
+    },
+    "contact": {
+      "title": "Public Contact Details",
+      "officeTitle": "Public Relations Office",
+      "address": "Talekar Patil Chowk, Moshi-Alandi Road, Dudulgaon Taluka Haveli District Pune",
+      "helpline": "24 Hour Helpline Service",
+      "mobile": "Mobile",
+      "availability": "24-hour helpline service to understand the problems of the citizens in the ward"
+    },
+    "queryForm": {
+      "title": "Submit Your Problem / Query",
+      "button": "Submit Problem",
+      "name": "Name (Optional)",
+      "mobile": "Mobile Number (Optional)",
+      "problem": "Problem / Query Description (Required)",
+      "area": "Area / Ward",
+      "submit": "Send via WhatsApp",
+      "close": "Close",
+      "disclaimer": "This form will generate a WhatsApp message and redirect you to WhatsApp to send it.",
+      "required": "This field is required"
+    },
+    "footer": {
+      "partyName": "Bharatiya Janata Party",
+      "disclaimer": "This website is for election publicity. All information is taken from official sources.",
+      "message": "Development and Progress for All"
+    }
+  }
+}
+
+

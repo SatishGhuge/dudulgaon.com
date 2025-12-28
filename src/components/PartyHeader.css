@@ -1,0 +1,38 @@
+.party-header {
+  background: linear-gradient(135deg, #ff6600 0%, #ff8533 100%);
+  padding: 60px 20px 40px;
+  text-align: center;
+  color: white;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.party-header .container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.party-name {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 0;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  line-height: 1.2;
+}
+
+@media (max-width: 768px) {
+  .party-header {
+    padding: 40px 15px 30px;
+  }
+  
+  .party-name {
+    font-size: 1.8rem;
+    margin-bottom: 0;
+  }
+}
+
+@media (max-width: 480px) {
+  .party-name {
+    font-size: 1.5rem;
+  }
+}
+

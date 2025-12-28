@@ -1,0 +1,124 @@
+.ward-section {
+  padding: 60px 20px;
+  background: #ffffff;
+}
+
+.ward-section .container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.ward-content {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 30px;
+  margin-top: 40px;
+}
+
+.ward-card {
+  background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border-top: 4px solid #ff6600;
+}
+
+.ward-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+.ward-icon {
+  font-size: 3rem;
+  margin-bottom: 15px;
+}
+
+.ward-label {
+  font-size: 1.1rem;
+  color: #666;
+  font-weight: 600;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.ward-value {
+  font-size: 1.3rem;
+  color: #ff6600;
+  font-weight: 700;
+  margin: 0;
+}
+
+.areas-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  margin-top: 15px;
+}
+
+.area-tag {
+  background: #ff6600;
+  color: white;
+  padding: 8px 16px;
+  border-radius: 20px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.vision-banner {
+  margin-top: 50px;
+  padding: 40px;
+  background: linear-gradient(135deg, #ff6600 0%, #ff8533 100%);
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.vision-text {
+  font-size: 2rem;
+  font-weight: 700;
+  color: white;
+  margin: 0;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+@media (max-width: 768px) {
+  .ward-section {
+    padding: 40px 15px;
+  }
+  
+  .ward-content {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+  
+  .ward-card {
+    padding: 25px;
+  }
+  
+  .vision-banner {
+    padding: 30px 20px;
+    margin-top: 30px;
+  }
+  
+  .vision-text {
+    font-size: 1.5rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .vision-text {
+    font-size: 1.2rem;
+  }
+  
+  .area-tag {
+    font-size: 0.8rem;
+    padding: 6px 12px;
+  }
+}
+
+
