@@ -15,18 +15,18 @@ const WardSection = () => {
           <div className="ward-card">
             <div className="ward-icon">📍</div>
             <h3 className="ward-label">{t('ward.municipality')}</h3>
-            <p className="ward-value">{ward.municipality[lang]}</p>
+            {/* <p className="ward-value">{ward.municipality[lang]}</p> */}
           </div>
-          
+
           <div className="ward-card">
             <div className="ward-icon">🏛️</div>
             <h3 className="ward-label">{t('ward.wardNumber')}</h3>
-            <p className="ward-value">{ward.number}</p>
+            {/* <p className="ward-value">{ward.number}</p> */}
           </div>
-          
+
           <div className="ward-card">
             <div className="ward-icon">🏘️</div>
-            <h3 className="ward-label">{t('ward.areas')}</h3>
+            {/* <h3 className="ward-label">{t('ward.areas')}</h3> */}
             <div className="areas-list">
               {ward.areas[lang].map((area, index) => (
                 <span key={index} className="area-tag">{area}</span>
@@ -34,7 +34,7 @@ const WardSection = () => {
             </div>
           </div>
         </div>
-        
+
         <div className="vision-banner">
           <p className="vision-text">{t('ward.vision')}</p>
         </div>

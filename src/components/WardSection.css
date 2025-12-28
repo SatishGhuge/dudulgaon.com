@@ -36,8 +36,8 @@
 }
 
 .ward-label {
-  font-size: 1.1rem;
-  color: #666;
+  font-size: 1.4rem;
+  color: #ff6600;
   font-weight: 600;
   margin-bottom: 10px;
   text-transform: uppercase;
@@ -90,21 +90,21 @@
   .ward-section {
     padding: 40px 15px;
   }
-  
+
   .ward-content {
     grid-template-columns: 1fr;
     gap: 20px;
   }
-  
+
   .ward-card {
     padding: 25px;
   }
-  
+
   .vision-banner {
     padding: 30px 20px;
     margin-top: 30px;
   }
-  
+
   .vision-text {
     font-size: 1.5rem;
   }
@@ -114,11 +114,9 @@
   .vision-text {
     font-size: 1.2rem;
   }
-  
+
   .area-tag {
     font-size: 0.8rem;
     padding: 6px 12px;
   }
 }
-
-

@@ -61,10 +61,11 @@
 }
 
 .activity-text {
-  color: #555;
+  color: #ff6600;
   line-height: 1.6;
   margin: 0;
-  font-size: 0.95rem;
+  font-size: 1.1rem;
+  font-weight: bold;
   flex: 1;
 }
 
@@ -113,27 +114,26 @@
   .social-work-section {
     padding: 40px 15px;
   }
-  
+
   .activities-grid {
     grid-template-columns: 1fr;
     gap: 15px;
   }
-  
+
   .activity-card {
     padding: 15px;
   }
-  
+
   .festivals-section {
     padding: 20px;
     margin-top: 30px;
   }
-  
+
   .festivals-title {
     font-size: 1.3rem;
   }
-  
+
   .festivals-text {
     font-size: 1rem;
   }
 }
-

@@ -1,5 +1,5 @@
 {
-  "whatsappNumber": "919999018585",
+  "whatsappNumber": "919850716340",
   "candidate": {
     "name": {
       "marathi": "सौ. कावेरी सचिन तळेकर",
@@ -16,8 +16,8 @@
         "english": "Shri. Sachin Digambar Talekar"
       },
       "designation": {
-        "marathi": "युवानेते",
-        "english": "Youth Leader"
+        "marathi": "उद्योजक आणि युवानेते",
+        "english": "Entrepreneur and Youth Leader"
       },
       "image": "/images/candidates/sachin-talekar.jpg",
       "roles": {
@@ -53,7 +53,7 @@
       "marathi": "तळेकर पाटील चौक, मोशी-आळंदी रोड, डुडूळगांव ता. हवेली जि.पुणे",
       "english": "Talekar Patil Chowk, Moshi-Alandi Road, Dudulgaon Taluka Haveli District Pune"
     },
-    "mobile": "9999 01 8585",
+    "mobile": "9850 71 6340",
     "helpline": {
       "marathi": "24 तास हेल्पलाईन सेवा",
       "english": "24 Hour Helpline Service"
@@ -69,13 +69,13 @@
       "marathi": [
         "डुडूळगांव",
         "मोशी",
-        "चन्होली",
+        "चऱ्होली ",
         "गंधर्वनगरी"
       ],
       "english": [
         "Dudulgaon",
         "Moshi",
-        "Chanhali",
+        "Charholi",
         "Gandharvanagari"
       ]
     }
