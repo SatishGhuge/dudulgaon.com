@@ -12,6 +12,15 @@ const AboutSection = () => {
       <div className="container">
         <h2 className="section-title">{t('about.title')}</h2>
         <div className="about-content">
+
+          <div className="about-card-1">
+            <h3 className="card-title">{t('about.leadershipTitle')}</h3>
+            <p className="card-text">{t('about.leadershipInfo')}</p>
+          </div>
+
+          <div >
+          </div>
+          <br />
           <div className="about-card">
             <h3 className="card-title">{candidate.name[lang]}</h3>
             <ul className="qualifications-list">
@@ -21,7 +30,7 @@ const AboutSection = () => {
             </ul>
             <p className="card-text">{t('about.candidateInfo')}</p>
           </div>
-          
+
           <div className="about-card">
             <h3 className="card-title">{candidate.spouse.name[lang]}</h3>
             <ul className="roles-list">
@@ -31,11 +40,13 @@ const AboutSection = () => {
             </ul>
             <p className="card-text">{t('about.spouseInfo')}</p>
           </div>
-          
+
           <div className="about-card">
-            <h3 className="card-title">{t('about.familyInfo')}</h3>
+            <h3 className="card-title">{t('about.fatherInfo')}</h3>
             <p className="card-text">{t('about.familyInfo')}</p>
           </div>
+
+
         </div>
       </div>
     </section>

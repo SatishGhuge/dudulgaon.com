@@ -12,9 +12,12 @@
     },
     "about": {
       "title": "उमेदवाराबद्दल",
+      "leadershipTitle": "सामाजिक प्रश्नांची जाणीव असणारे कार्यसक्षम लोकप्रिय नेतृत्व",
+      "leadershipInfo": "श्री. सचिन दिगंबर तळेकर व सौ. कावेरी सचिन तळेकर सामजित कार्यकर्ते आहे. युवक, ज्येष्ठ नागरिक व वंचित वर्ग हे त्यांचे सर्वात आवडते समाज घटक आहेत.समाजासाठी काहीतरी करावे, अशी जिद्द बाळगून श्री. सचिन दिगंबर तळेकर यांनी समाजसेवेचे व्रत हाती घेतले. सामाजिक कार्याला राजकीय किनार लागतेच हे काही खोटे नाही. सामाजिक कार्य करत असताना सर्वसामान्यांशी त्यांची नाळ जोडली आहे. आदर्श व्यक्तिमत्त्व, मनमिळाऊ व शांत स्वभाव, सामाजिक प्रश्नांची जाण असणारी व्यक्ति म्हणून श्री. सचिन दिगंबर तळेकर यांची प्रतिमा तयार झाली. नागरिकांच्या आग्रहास्तव सौ. कावेरी सचिन तळेकर यांनी लोकप्रतिनिधी म्हणून राजकारणात यावे, ही अपेक्षा आहे. गावातील एखाद्या समस्येविषयी थोरामोठ्यांना विश्वासात घेऊन समस्या सोडविणे अशा त्यांच्या कार्य पद्धतीमुळे तसेच शांत व मनमिळाऊ स्वभावामुळे नागरिकांनी त्यांना आदराचे स्थान दिले. खऱ्या अर्थाने समाजकारणात उत्तम संघटन आवश्यक असते. सोबत असणान्या सहकाऱ्यांना ताकद देऊन त्यांना उभे करण्यासाठी त्या क्षमतेचे व योग्यतेचे नेतृत्व आवश्यक असते. ते नेतृत्व श्री. सचिन दिगंबर तळेकर यांनी डुडूळगाव परिसराला दिले. मानसन्मानाचा कुठलाही बडेजाव बाळगला नाही. तरुणाईचा आश्वासक चेहरा आणि सर्वसामान्यांचा विश्वास, त्यांची ओळख, विकासकामातील त्यांची झेप दर्शविते.सर्व-सामान्य माणसात सामान्य होऊन मिसळण्याचे त्यांचे नैसर्गिक वागणे त्यांच्या आपुलकीची साक्ष देणारा आहे.",
       "candidateInfo": "सौ. कावेरी सचिन तळेकर ह्या उच्चशिक्षित आहेत आणि महिला बचत गट सदस्य आहेत. त्या सामाजिक कार्यकर्त्या म्हणून कार्यरत आहेत.",
       "spouseInfo": "श्री. सचिन दिगंबर तळेकर हे भारतीय जनता पार्टी ओ.बी.सी. उपाध्यक्ष, पिंपरी-चिंचवड शहर आहेत. ते मा. उपाध्यक्ष, सावता परिषद पिंपरी-चिंचवड शहर होते.",
-      "familyInfo": "श्री. दिगंबर हरिभाऊ तळेकर हे डुडुळगांव-मोशी परिसरात गेल्या 20-25 वर्षांपासून सामाजिक कार्यात सक्रिय आहेत."
+      "familyInfo": "श्री. दिगंबर हरिभाऊ तळेकर हे डुडुळगांव-मोशी परिसरात गेल्या 20-25 वर्षांपासून सामाजिक कार्यात सक्रिय आहेत.",
+      "fatherInfo": "श्री. दिगंबर हरिभाऊ तळेकर "
     },
     "socialWork": {
       "title": "सामाजिक कार्य आणि योगदान",
@@ -99,6 +102,8 @@
     },
     "about": {
       "title": "About the Candidate",
+      "leadershipTitle": "Efficient, people-centric leadership sensitive to social issues",
+      "leadershipInfo": "Smt. Kaveri Sachin Talekar and Shri. Sachin Digambar Talekar are consistently active in public welfare in the Dudulgaon–Moshi area. They have delivered concrete work on citizens’ key issues such as water, roads, lighting, health, education, and sanitation. They understand people’s needs and work promptly to resolve problems, offering dedicated, transparent, and result‑oriented leadership.",
       "candidateInfo": "Smt. Kaveri Sachin Talekar is highly educated and a member of Women's Self-Help Group. She is working as a social worker.",
       "spouseInfo": "Shri. Sachin Digambar Talekar is the Vice President, OBC Bharatiya Janata Party, Pimpri-Chinchwad City. He was the Former Vice President, Savata Parishad, Pimpri-Chinchwad City.",
       "familyInfo": "Shri. Digambar Haribhau Talekar has been actively involved in social work in the Dudulgaon-Moshi area for the past 20-25 years."
@@ -174,5 +179,3 @@
     }
   }
 }
-
-
